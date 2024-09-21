@@ -91,4 +91,3 @@ You can test the API using `curl` or Postman.
 ## License
 
 This project is licensed under the MIT License.
-```
